@@ -23,8 +23,9 @@ body{
   heighr:100vh;
 }
 .Insta-fone{
+  background: url('../img/cel.png');
   display:flex;
-  align-items:center
+  align-items:center;
   justify-content:center;
   width:50%;
 }
@@ -57,5 +58,6 @@ body{
   overflow:hidden;
 }
 .Insta-logo{
+  background: url('../img/logo.png');
   height:19rem;
 }
