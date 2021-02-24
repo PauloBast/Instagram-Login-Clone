@@ -15,24 +15,24 @@ body{
   dliplay:flex;
   justify-content:center;
 }
-.Insta-wrapper{
+.insta-wrapper{
   display:flex;
   align-items:center;
   justify-content:start;
   width:60%;
   heighr:100vh;
 }
-.Insta-fone{
+.insta-fone{
   background-image: url('../img/cel.png');
   display:flex;
   align-items:center;
   justify-content:center;
   width:50%;
 }
-.Insta-fone img{
+.insta-fone img{
   heighr:100vh;
 }
-.Insta-cont{
+.insta-cont{
   display:flex;
   align-items:center;
   justify-content:space-around;
@@ -40,7 +40,7 @@ body{
   width:50%;
   min-height:34rem;
 }
-.Insta-group{
+.insta-group{
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -50,14 +50,17 @@ body{
   padding:1.3rem 0;
   border:1px solid lightgray;
 }
-.Insta-group:nth-child(1){
+.insta-group:nth-child(1){
   display:flex;
   align-items:center;
   justify-content:center;
   border-radius:50%;
   overflow:hidden;
 }
-.Insta-logo{
+.insta-logo{
   background: url('../img/logo.png');
   height:19rem;
+}
+.insta-input{
+  background: rgba(var(--b3f,250,250,250),1);
 }
