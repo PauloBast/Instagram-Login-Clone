@@ -70,7 +70,6 @@ body{
 }*/
 .insta-logo{
   background-image: url('../img/logo.png');
-  background-repeat: no-repeat;
   widht:50%;
   height:190rem;
 }
