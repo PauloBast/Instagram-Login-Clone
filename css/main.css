@@ -35,7 +35,7 @@ body{
 .insta-fone img{
   heighr:100vh;
 }
-.insta-cont{
+/*.insta-cont{
   display:flex;
   align-items:center;
   justify-content:space-around;
@@ -66,4 +66,4 @@ body{
 }
 .insta-input{
   background: rgba(var(--b3f,250,250,250),1);
-}
+}*/
