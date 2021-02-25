@@ -31,10 +31,11 @@ body{
   align-items:center;
   justify-content:center;
   width:50%;
-}
-.insta-fone img{
   height:100vh;
 }
+/*.insta-fone img{
+  height:100vh;
+}*/
 /*.insta-cont{
   display:flex;
   align-items:center;
