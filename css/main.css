@@ -74,10 +74,10 @@ body{
   /*display:flex;*/
   /*align-items:center;
   justify-content:center;
-  display: block;
+  display: block;*/
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  /*width: 80%;
   widht:5rem;
   height:6rem;*/
   background-size: contain;
