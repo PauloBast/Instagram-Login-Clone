@@ -27,15 +27,16 @@ body{
 }
 .insta-fone{
   background-image: url('../img/cel.png');
+  background-size: 200px 200px
   display:flex;
   align-items:center;
   justify-content:center;
   /*width:55%;
   height:80vh;*/
-  max-width:200px;
+ /* max-width:200px;
   max-height:150px;
   width: auto;
-  height: auto;
+  height: auto;*/
 }
 /*.insta-fone img{
   height:100vh;
