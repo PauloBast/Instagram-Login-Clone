@@ -23,7 +23,7 @@ body{
   align-items:center;
   justify-content:start;
   width:60%;
-  heighr:100vh;
+  height:100vh;
 }
 .insta-fone{
   background-image: url('https://github.com/PauloBast/Instagram-Login-Clone.github.io/blob/Instagram-Login-Clone/img/cel.png');
@@ -33,7 +33,7 @@ body{
   width:50%;
 }
 .insta-fone img{
-  heighr:100vh;
+  height:100vh;
 }
 /*.insta-cont{
   display:flex;
