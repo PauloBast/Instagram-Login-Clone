@@ -96,7 +96,9 @@ body{
   flex-direction: column;
 }
 .insta-login{
-justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .insta-input{
   background: rgba(var(--b3f,250,250,250),1);
