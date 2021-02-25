@@ -18,13 +18,13 @@ body{
   display:flex;
   justify-content:center;
 }
-.insta-wrapper{
+/*.insta-wrapper{
   display:flex;
   align-items:center;
   justify-content:center;
   width:100%;
   height:100vh;
-}
+}*/
 .insta-fone{
   background-image: url('../img/cel.png');
   background-repeat: no-repeat;
