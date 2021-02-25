@@ -77,8 +77,8 @@ body{
   background: rgba(var(--b3f,250,250,250),1);
 }
 .ouou{
-  display:flex;
+ /* display:flex;
   align-items:center;
   justify-content:space-between;
-  flex-direction: column;
+  flex-direction: column;*/
 }
