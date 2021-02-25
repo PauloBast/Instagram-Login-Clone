@@ -26,7 +26,7 @@ body{
   height:100vh;
 }
 .insta-fone{
-  background-image: url('../img/cel.png') no-repeat;
+  background-image: url('../img/cel.png'), no-repeat;
   background-size: contain;
   display:flex;
   align-items:center;
