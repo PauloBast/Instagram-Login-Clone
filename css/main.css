@@ -73,7 +73,7 @@ body{
   background-repeat: no-repeat;
   display:flex;
   align-items:center;
-  justify-content:center;
+  justify-content:start;
   widht:5rem;
   height:6rem;
 }
