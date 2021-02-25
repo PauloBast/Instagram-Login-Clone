@@ -74,7 +74,7 @@ body{
   display:flex;
   align-items:center;
   justify-content:center;
-  max-widht:5rem;
+  widht:5rem;
   height:6rem;
 }
 .insta-input{
