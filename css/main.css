@@ -94,6 +94,7 @@ body{
   align-content: stretch;
   justify-content: flex-start;
   flex-direction: column;
+  margin-top:1rem;
 }
 .insta-login{
   display: flex;
