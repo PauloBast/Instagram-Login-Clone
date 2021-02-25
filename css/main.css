@@ -15,7 +15,7 @@ body{
   background-color:rgb(243, 243, 243);
   margin:0;
   padding:0;
-  dliplay:flex;
+  display:flex;
   justify-content:center;
 }
 .insta-wrapper{
