@@ -42,7 +42,7 @@ body{
 /*.insta-fone img{
   height:100vh;
 }*/
-/*.insta-cont{
+.insta-cont{
   display:flex;
   align-items:center;
   justify-content:space-around;
@@ -50,7 +50,7 @@ body{
   width:50%;
   min-height:34rem;
 }
-.insta-group{
+/*.insta-group{
   display:flex;
   align-items:center;
   justify-content:space-between;
