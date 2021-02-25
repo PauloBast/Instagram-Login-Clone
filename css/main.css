@@ -84,8 +84,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40%;
-  height: 80vh;
+  width: 80%;
+  height: 10vh;
 }
 .insta-input{
   background: rgba(var(--b3f,250,250,250),1);
